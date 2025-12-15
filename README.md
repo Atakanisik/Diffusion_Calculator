@@ -37,7 +37,7 @@ The standalone package includes the compiled application and necessary runtime i
 **Installation Steps:**
 1.  Download and unzip the installer package.
 2.  Run `Installer.exe` or `Web_Installer.exe`.
-3.  Follow the prompts (it will automatically download MATLAB Runtime R2023a if you run `Web_Installer.exe` ).
+3.  Follow the prompts (it will automatically download MATLAB Runtime if you run `Web_Installer.exe` ).
 4.  Launch the application from your desktop.
 
 ### 2. Example Dataset
