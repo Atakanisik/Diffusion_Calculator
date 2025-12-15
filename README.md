@@ -9,7 +9,7 @@ Comprehensive IVIM calculator tool
 
 This app introduces **AI-powered segmentation (MedSAM)**, a standalone executable for easy installation, and rigorous clinical validation against industry standards (Siemens Syngo.via).
 
-![Splash Interface](assets/splash_icon.png)
+
 
 ---
 
