@@ -1,7 +1,7 @@
 # Diffusion_Calculator
 Comprehensive IVIM calculator tool
 
-[![DOI](https://zenodo.org/badge/DOI/[INSERT_GITHUB_CODE_DOI].svg)](https://doi.org/[INSERT_GITHUB_CODE_DOI])
+[![DOI](https://zenodo.org/badge/1116794592.svg)](https://doi.org/10.5281/zenodo.17939646)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-orange)](https://www.mathworks.com/products/matlab.html)
 
