@@ -39,8 +39,10 @@ The standalone package includes the compiled application and necessary runtime i
 2.  Run `Installer.exe` or `Web_Installer.exe`.
 3.  Follow the prompts (it will automatically download MATLAB Runtime if you run `Web_Installer.exe` ).
 4.  Launch the application from your desktop.
+   
 **Troubleshoot**
---First-Run Initialization: On some systems, MATLAB Runtime may require a "cold start" to fully register file paths. If you encounter an issue loading DICOM/NIfTI files immediately after installation, please close and restart the application. This resolves the     initialization delay permanently.
+--First Run Initialization: On some systems, MATLAB Runtime may require a "cold start" to fully register file paths. If you encounter an issue loading DICOM/NIfTI files immediately after installation, please close and restart the application. This resolves the     initialization delay permanently.
+
 ### 2. Example Dataset
 To test the software, you can download our anonymized validation dataset (DICOM):
 
