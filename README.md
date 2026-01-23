@@ -56,7 +56,7 @@ To test the software, you can download our anonymized validation dataset (DICOM)
 * **Download Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17941231.svg)](https://doi.org/10.5281/zenodo.17941231)
 
 ### 3. Source Code (For Developers)
-*Requires MATLAB R2023a + Toolboxes.*
+*Requires MATLAB R2024b + Toolboxes.*
 * Clone this repository or download the source archive
 
 ---
