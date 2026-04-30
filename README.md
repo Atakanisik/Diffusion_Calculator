@@ -15,7 +15,7 @@ This app introduces **AI-powered segmentation (MedSAM)**, a standalone executabl
 
 ##  Key Features
 
-* **Verified Accuracy:** Benchmarked against FDA-approved **Siemens Syngo.via**. Demonstrated **>0.90 Dice Similarity Coefficient (DSC)**.
+* **Verified Accuracy:** Benchmarked against FDA-approved **Siemens Syngo.via**. Demonstrated **>0.90 ICC**.
 * **AI-Assisted Segmentation:** Integrates **MedSAM** to automate kidney localization, replacing tedious manual ROI drawing.
 * **Artifact Correction:** Features a novel **"Safe-Zone Adaptive Thresholding"** algorithm to eliminate cortex/medulla edge artifacts.
 * **Universal Compatibility:** Supports DICOM datasets from major vendors (Siemens, GE, Philips) with automated b-value parsing.
